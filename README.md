@@ -56,7 +56,7 @@
 - Khi bấm **Đăng nhập**, hệ thống kiểm tra tài khoản trong bảng:
   - `TaiKhoanDuLich (TaiKhoan, MatKhau)`
 - Nếu đúng: mở form **`trangchu`**
-- N��u sai: thông báo lỗi và reset ô nhập
+- Nếu sai: thông báo lỗi và reset ô nhập
 
 ### Phân quyền hiển thị theo tài khoản
 Trong `trangchu` có biến:
