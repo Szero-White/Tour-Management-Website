@@ -155,9 +155,3 @@ Nhom5_Midterm/
 
 ---
 
-## 📌 Gợi ý dữ liệu/bảng cần có trong SQL Server
-Để ứng dụng hoạt động theo phần code đã đọc, tối thiểu cần:
-- Bảng `TaiKhoanDuLich(TaiKhoan, MatKhau)`
-- Bảng `Tour(MaTour, TenTour, GiaTour, PhuongTien, LoaiTour, NgayDi, NgayKetThuc, HinhAnh1, HinhAnh2, ...)`
-
----
