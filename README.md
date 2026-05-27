@@ -15,19 +15,41 @@
 
 ## 🖼️ Giao diện ứng dụng
 
-### Màn hình đăng nhập
+### 🔐 Login Screen
+
 <p align="center">
   <img src="images/login.png" alt="Màn hình đăng nhập" width="700">
 </p>
 
-### Trang chủ
+<p align="center">
+  <strong>🔑 Đăng nhập hệ thống</strong><br>
+  <em>Kiểm tra tài khoản người dùng và phân quyền truy cập.</em>
+</p>
+
+---
+
+### 🏠 Home Dashboard
+
 <p align="center">
   <img src="images/home.png" alt="Trang chủ ứng dụng" width="700">
 </p>
 
-### Quản lý danh sách tour
+<p align="center">
+  <strong>📌 Trang chủ ứng dụng</strong><br>
+  <em>Hiển thị các module chức năng theo dạng UserControl trong WinForms.</em>
+</p>
+
+---
+
+### 🧳 Tour Management
+
 <p align="center">
   <img src="images/tour-management.png" alt="Quản lý danh sách tour" width="700">
+</p>
+
+<p align="center">
+  <strong>🗂️ Quản lý danh sách tour</strong><br>
+  <em>Hỗ trợ CRUD tour du lịch, tìm kiếm, lọc dữ liệu và nhập tour từ Excel.</em>
 </p>
 
 ---
