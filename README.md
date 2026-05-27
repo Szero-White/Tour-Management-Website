@@ -13,6 +13,25 @@
 
 ---
 
+## 🖼️ Giao diện ứng dụng
+
+### Màn hình đăng nhập
+<p align="center">
+  <img src="images/login.png" alt="Màn hình đăng nhập" width="700">
+</p>
+
+### Trang chủ
+<p align="center">
+  <img src="images/home.png" alt="Trang chủ ứng dụng" width="700">
+</p>
+
+### Quản lý danh sách tour
+<p align="center">
+  <img src="images/tour-management.png" alt="Quản lý danh sách tour" width="700">
+</p>
+
+---
+
 ## 🧰 Công nghệ sử dụng
 ### 💻 Nền tảng
 - **Ngôn ngữ:** C#
