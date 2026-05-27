@@ -18,8 +18,8 @@
 ### 🔐 Login Screen
 
 <p align="center">
-  <img src="images/login.jpg" alt="Màn hình đăng nhập" width="700">
-  <img src="images/login1.jpg" alt="Màn hình đăng nhập" width="700">
+  <img src="images/login.jpg" alt="Màn hình đăng nhập" width="400">
+  <img src="images/login1.jpg" alt="Màn hình đăng nhập" width="400">
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@
 ### 🏠 Home Dashboard
 
 <p align="center">
-  <img src="images/home.jpg" alt="Trang chủ ứng dụng" width="700">
-  <img src="images/home1.jpg" alt="Trang chủ ứng dụng" width="700">
+  <img src="images/home.jpg" alt="Trang chủ ứng dụng" width="400">
+  <img src="images/home1.jpg" alt="Trang chủ ứng dụng" width="400">
 </p>
 
 <p align="center">
@@ -46,9 +46,9 @@
 ### 🧳 Tour Management
 
 <p align="center">
-  <img src="images/tour-management.jpg" alt="Quản lý danh sách tour" width="700">
-  <img src="images/tour-management1.jpg" alt="Quản lý danh sách tour" width="700">
-  <img src="images/tour-management2.jpg" alt="Quản lý danh sách tour" width="700">
+  <img src="images/tour-management.jpg" alt="Quản lý danh sách tour" width="400">
+  <img src="images/tour-management1.jpg" alt="Quản lý danh sách tour" width="400">
+  <img src="images/tour-management2.jpg" alt="Quản lý danh sách tour" width="400">
 </p>
 
 <p align="center">
