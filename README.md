@@ -32,9 +32,8 @@
 ### 🏠 Home Dashboard
 
 <p align="center">
-  <img src="images/home.png" alt="Trang chủ ứng dụng" width="700">
-  <img src="images/home1.png" alt="Trang chủ ứng dụng" width="700">
-  <img src="images/home2.png" alt="Trang chủ ứng dụng" width="700">
+  <img src="images/home.jpg" alt="Trang chủ ứng dụng" width="700">
+  <img src="images/home1.jpg" alt="Trang chủ ứng dụng" width="700">
 </p>
 
 <p align="center">
@@ -47,8 +46,9 @@
 ### 🧳 Tour Management
 
 <p align="center">
-  <img src="images/tour-management.png" alt="Quản lý danh sách tour" width="700">
-  <img src="images/tour-management1.png" alt="Quản lý danh sách tour" width="700">
+  <img src="images/tour-management.jpg" alt="Quản lý danh sách tour" width="700">
+  <img src="images/tour-management1.jpg" alt="Quản lý danh sách tour" width="700">
+  <img src="images/tour-management2.jpg" alt="Quản lý danh sách tour" width="700">
 </p>
 
 <p align="center">
